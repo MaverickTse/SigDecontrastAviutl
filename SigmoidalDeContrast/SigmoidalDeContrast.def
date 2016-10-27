@@ -1,0 +1,4 @@
+LIBRARY SigmoidalDeContrast
+EXPORTS
+	GetFilterTable @1
+
